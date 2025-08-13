@@ -4,7 +4,7 @@
 
 ```toml
 [dependencies]
-Freeze = "ahmoin/freeze@0.1.0"
+Signal = "ahmoin/signal@0.1.0"
 ```
 
 # Signal
